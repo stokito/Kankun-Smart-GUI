@@ -3,4 +3,4 @@ Free software and GUI for the Kankun Smart Plug
 
 ## Alternatives
 * [kankun-json](https://github.com/homedash/kankun-json) is supported by HomeAssistant
-
+* [Kankun KK-SP3: Complete Guide](https://github.com/yurt-page/Kankun_KK-SP3)
